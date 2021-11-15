@@ -14,9 +14,9 @@ title: Smart Breathalyzer Test
 ---
 
 ## Team
--  E/14/010, ADIKARI A.M.N.P., [e14010@eng.pdn.ac.lk](mailto:e14010@eng.pdn.ac.lk)
--  E/14/028, BANDARA D.M.N.T., [e14028@eng.pdn.ac.lk](mailto:e14028@eng.pdn.ac.lk)
--  E/14/065, DASSANAYAKA D.S.M.M.B., [e14065@eng.pdn.ac.lk](mailto:e14065@eng.pdn.ac.lk)
+-  E/14/010, ADIKARI A.M.N.P., [e14010@ce.pdn.ac.lk](mailto:e14010@ce.pdn.ac.lk)
+-  E/14/028, BANDARA D.M.N.T., [e14028@ce.pdn.ac.lk](mailto:e14028@ce.pdn.ac.lk)
+-  E/14/065, DASSANAYAKA D.S.M.M.B., [e14065@ce.pdn.ac.lk](mailto:e14065@ce.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -117,7 +117,7 @@ But when considering server
 - <a href = "https://github.com/cepdnaclk/e14-3yp-Smart-Breathalyzer-Test" target = "_blank">Project Repository</a>
 - <a href = "https://cepdnaclk.github.io/e14-3yp-Smart-Breathalyzer-Test/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
-- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+- <a href = "https://ce.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)
